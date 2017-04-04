@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="milightRouting.svg">
+  <defs
+     id="defs4">
+    <radialGradient
+       gradientTransform="translate(380.32754,219.33467)"
+       id="BulbGrad-1"
+       gradientUnits="userSpaceOnUse"
+       cx="100"
+       cy="100"
+       r="60">
+      <stop
+         offset="0%"
+         stop-color="#fff"
+         id="stop151891"
+         style="stop-color:#000076;stop-opacity:1" />
+      <stop
+         offset="100%"
+         stop-color="#ff6"
+         id="stop151893"
+         style="stop-color:#ffff66;stop-opacity:1" />
+    </radialGradient>
+    <linearGradient
+       id="ThreadsBackgroundGrad"
+       gradientTransform="matrix(0.70710678,0,0,1.4142136,455.5839,2.1518723)"
+       x1="113.13708"
+       y1="70.710678"
+       x2="169.70563"
+       y2="70.710678"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop151660"
+         stop-color="#bbb"
+         offset="0%" />
+      <stop
+         id="stop151662"
+         stop-color="#666"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="100%"
+       y1="70%"
+       id="MedThreads1Grad">
+      <stop
+         id="stop151665"
+         stop-color="#aaa"
+         offset="0%" />
+      <stop
+         id="stop151667"
+         stop-color="#333"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="100%"
+       y1="70%"
+       id="DarkThreadsGrad">
+      <stop
+         id="stop151670"
+         stop-color="#555"
+         offset="0%" />
+      <stop
+         id="stop151672"
+         stop-color="#888"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="100%"
+       y1="70%"
+       id="MedThreads2Grad">
+      <stop
+         id="stop151675"
+         stop-color="#aaa"
+         offset="0%" />
+      <stop
+         id="stop151677"
+         stop-color="#bbb"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="100%"
+       y1="70%"
+       id="LightThreadsGrad">
+      <stop
+         id="stop151680"
+         stop-color="#fff"
+         offset="0%" />
+      <stop
+         id="stop151682"
+         stop-color="#444"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       y2="96.465561"
+       y1="126.63177"
+       id="EndcapGrad"
+       gradientTransform="matrix(0.66299354,0,0,1.5083103,455.5839,2.1518723)"
+       x1="120.66483"
+       x2="180.99724"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop151685"
+         stop-color="#bbb"
+         offset="0%" />
+      <stop
+         id="stop151687"
+         stop-color="#555"
+         offset="100%" />
+    </linearGradient>
+    <radialGradient
+       r="60"
+       cy="100"
+       cx="100"
+       gradientUnits="userSpaceOnUse"
+       id="BulbGrad"
+       gradientTransform="translate(380.32754,219.33467)">
+      <stop
+         id="stop151690"
+         stop-color="#fff"
+         offset="0%" />
+      <stop
+         id="stop151692"
+         stop-color="#ff6"
+         offset="100%" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="293.06957"
+     inkscape:cy="1064.9739"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0b003d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.74996597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect151852-4-6-4"
+       width="30.732286"
+       height="113.42992"
+       x="-155.23706"
+       y="307.91635"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.74996597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect151852-4"
+       width="28.232286"
+       height="113.42992"
+       x="-124.40931"
+       y="307.92783"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.57120311px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect151852"
+       width="113.15055"
+       height="32.796474"
+       x="307.66855"
+       y="63.353325" />
+    <path
+       inkscape:connector-curvature="0"
+       id="Endcap"
+       style="fill:#000000"
+       d="m 601.94939,92.734894 m -20,81.999996 a 50,50 0 0 0 40,-2 l 0,3 -10,8 -20,0 -10,-8 z" />
+    <g
+       style="fill:#000000;stroke:#000000;stroke-width:2.25px"
+       id="g151699"
+       transform="translate(501.80145,-7.4130371)">
+      <g
+         id="MedThreads1"
+         style="fill:#000000;stroke:#000000">
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="ThreadsBackground1"
+           d="m 100,100 m -20,53 a 50,50 0 0 0 40,0" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="ThreadsBackground2"
+           d="m 100,100 m -20,82 a 50,50 0 0 0 40,0" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread1"
+           d="m 100,100 m -20,61.75 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread2"
+           d="m 100,100 m -20,70.75 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread3"
+           d="m 100,100 m -20,79.75 a 50,50 0 0 0 40,-2" />
+      </g>
+      <g
+         id="DarkThreads"
+         style="fill:#000000;stroke:#000000">
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="DarkThread1"
+           d="m 100,100 m -20,55 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="DarkThread2"
+           d="m 100,100 m -20,64 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="DarkThread3"
+           d="m 100,100 m -20,73 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="DarkThread4"
+           d="m 100,100 m -20,82 a 50,50 0 0 0 40,-2" />
+      </g>
+      <g
+         id="MedThreads2"
+         style="fill:#000000;stroke:#000000">
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread4"
+           d="m 100,100 m -20,57.25 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread5"
+           d="m 100,100 m -20,66.25 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="MedThread6"
+           d="m 100,100 m -20,75.25 a 50,50 0 0 0 40,-2" />
+      </g>
+      <g
+         id="LightThreads"
+         style="fill:#000000;stroke:#000000">
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="LightThread1"
+           d="m 100,100 m -20,59.5 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="LightThread2"
+           d="m 100,100 m -20,68.5 a 50,50 0 0 0 40,-2" />
+        <path
+           style="fill:#000000;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="LightThread3"
+           d="m 100,100 m -20,77.5 a 50,50 0 0 0 40,-2" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="Outline"
+       style="fill:none;stroke:#000000;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:round"
+       d="m 601.94939,92.734894 m -43.30127,21.698726 a 50,50 0 1 1 86.60254,0 c -6,12 -23.30127,18.30127 -23.30127,33.30127 l 0,28 -10,8 -20,0 -10,-8 0,-28 c 0,-15 -17.30127,-21.30127 -23.30127,-33.30127 z" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.16696858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect151844"
+       width="146.30524"
+       height="109.55003"
+       x="293.76331"
+       y="55.151245"
+       rx="19.299999" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffd42a;stroke-width:0.51527804;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path151846"
+       cx="396.1824"
+       cy="140.06"
+       rx="20.312847"
+       ry="7.486342" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.73495865px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd42a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="354.09045"
+       y="156.81345"
+       id="text151848"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0856969,0.92106739)"><tspan
+         sodipodi:role="line"
+         id="tspan151850"
+         x="354.09045"
+         y="156.81345">WiFi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="316.41699"
+       y="80.585197"
+       id="text151913"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan151915"
+         x="316.41699"
+         y="80.585197">Mi.Light</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.80999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect151947"
+       width="102.957"
+       height="167.24271"
+       x="64.235786"
+       y="30.883703"
+       rx="16.60037" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.96300006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect151949"
+       width="77.844437"
+       height="121.05872"
+       x="76.61348"
+       y="45.761414" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.81099999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect151953"
+       width="37.857143"
+       height="10"
+       x="96.453957"
+       y="177.48474"
+       rx="4.1999998" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 247.349,72.015576 c 14.50586,28.780994 13.73555,56.851474 -0.71429,84.285704"
+       id="path151955-0"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="14.647212"
+       inkscape:transform-center-y="-0.50507627"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.288234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 234.17871,77.842059 c 12.55228,24.904901 11.88571,49.194971 -0.61809,72.934491"
+       id="path151955-0-9"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="12.674592"
+       inkscape:transform-center-y="-0.43705648"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2.52058506;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.04142,85.660925 c 9.62191,19.090765 9.11095,37.710235 -0.47379,55.907685"
+       id="path151955-0-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="9.7156667"
+       inkscape:transform-center-y="-0.3350259"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 494.2365,74.313124 c 14.50586,28.780996 13.73555,56.851476 -0.71429,84.285706"
+       id="path151955-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="14.647212"
+       inkscape:transform-center-y="-0.50507627"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:3.288234;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 481.06621,80.139614 c 12.55228,24.904896 11.88571,49.194966 -0.61809,72.934486"
+       id="path151955-0-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="12.674592"
+       inkscape:transform-center-y="-0.43705648"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:2.52058506;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 469.92892,87.958474 c 9.62191,19.090766 9.11095,37.710236 -0.47379,55.907686"
+       id="path151955-0-9-4-7"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="9.7156667"
+       inkscape:transform-center-y="-0.3350259"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.23381805px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.338875"
+       y="98.584564"
+       id="text152050"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan152052"
+         x="86.338875"
+         y="98.584564">Mi.Light</tspan><tspan
+         sodipodi:role="line"
+         x="86.338875"
+         y="118.87684"
+         id="tspan152054">App</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path152056"
+       cx="212.80547"
+       cy="112.92033"
+       rx="7.744503"
+       ry="8.0812206" />
+    <ellipse
+       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.79999995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path152056-9"
+       cx="461.63971"
+       cy="115.9508"
+       rx="7.744503"
+       ry="8.0812206" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.43698883px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="207.09555"
+       y="196.2175"
+       id="text152073"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan152075"
+         x="207.09555"
+         y="196.2175">Wifi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.09090805px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="434.38904"
+       y="195.11307"
+       id="text152073-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan152075-4"
+         x="434.38904"
+         y="195.11307">Milight</tspan></text>
+  </g>
+</svg>

@@ -8,7 +8,7 @@ Based on Henryk Plötz researchs : https://hackaday.io/project/5888-reverse-engi
 
 Milight bulbs are not controlled using WIFI, it uses its own protocol on **2.4Ghz**.     
 
-![openlight Routing](https://github.com/madnerdorg/openlight/raw/master/doc/milightRouting.png)
+![openlight Routing](https://github.com/madnerdorg/openlight/raw/master/doc/milightRouting.png)      
 Our arduino will directly control the milight bulbs using **nrf24l01+** radio modules without **using the WIFI gateway**.
 
 # Usage

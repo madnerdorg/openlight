@@ -6,7 +6,7 @@ OpenLight
 Openlight is an open source alternative for milight gateway based on an arduino nano (clone).     
 Based on Henryk Plötz researchs : https://hackaday.io/project/5888-reverse-engineering-the-milight-on-air-protocol     
 
-Milight bulbs are not controlled using WIFI, it uses its own protocol on **2.4Ghz**.
+Milight bulbs are not controlled using WIFI, it uses its own protocol on **2.4Ghz**.     
 
 ![openlight Routing](https://github.com/madnerdorg/openlight/raw/master/doc/milightRouting.png)
 Our arduino will directly control the milight bulbs using **nrf24l01+** radio modules without **using the WIFI gateway**.

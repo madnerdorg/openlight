@@ -6,7 +6,7 @@ OpenLight
 Openlight est une alternative open source au passerelle milight basé sur un arduino nano (clone).      
 Fait à partir des recherches de Henryk Plötz : https://hackaday.io/project/5888-reverse-engineering-the-milight-on-air-protocol     
 
-Les ampoules Milight ne sont pas contrôlés en WIFI mais utilisent sont propre protocôle sur la fréquence **2.4Ghz**.
+Les ampoules Milight ne sont pas contrôlés en WIFI mais utilisent sont propre protocôle sur la fréquence **2.4Ghz**.    
 
 ![openlight Routing](https://github.com/madnerdorg/openlight/raw/master/doc/milightRouting.png)
 Notre arduino va contrôler directement les ampoules milight grâce au module radio **nrf24l01+** sans **passer par la passerelle WIFI**.

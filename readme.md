@@ -2,7 +2,7 @@
 
 OpenLight
 --------
-![openlight_photo](https://github.com/madnerdorg/openlight/raw/master/doc/milightONOFF.jpg)
+![openlight_photo](https://github.com/madnerdorg/openlight/raw/master/doc/milightONOFF.jpg)     
 Openlight is an open source alternative for milight gateway based on an arduino nano (clone).     
 Based on Henryk Plötz researchs : https://hackaday.io/project/5888-reverse-engineering-the-milight-on-air-protocol     
 

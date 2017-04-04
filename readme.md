@@ -36,9 +36,9 @@ Total : 5.50€
 # Wiring
 **nrf modules use 3.3V not 5V**
 
-![nrf_pinout](https://github.com/madnerdorg/openmilight/raw/master/doc/nrf_pinout.png)
+![nrf_pinout](https://github.com/madnerdorg/openlight/raw/master/doc/nrf_pinout.png)
 
-![touchsensor](https://github.com/madnerdorg/openmilight/raw/master/doc/touchsensor.png)
+![touchsensor](https://github.com/madnerdorg/openlight/raw/master/doc/touchsensor.png)
 
 ```
 NRF

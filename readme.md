@@ -2,12 +2,9 @@
 
 OpenLight
 --------
+![openlight_photo](https://github.com/madnerdorg/openlight/raw/master/doc/milightONOFF.jpg)
 Openlight is an open source alternative for milight gateway based on an arduino nano (clone).     
 Based on Henryk Plötz researchs : https://hackaday.io/project/5888-reverse-engineering-the-milight-on-air-protocol     
-
-![openlight_photo](https://github.com/madnerdorg/openlight/raw/master/doc/milightONOFF.jpg)
-
-![openlight](https://github.com/madnerdorg/openlight/raw/master/doc/milight.png)
 
 Milight bulbs are not controlled using WIFI, it uses its own protocol on **2.4Ghz**.
 
@@ -27,8 +24,8 @@ int on [7] = { 0x00, 0x00, 0x00 ,0x00, 0x00, 0x00, 0x01};
 int off [7] = { 0x00, 0x00, 0x00 ,0x00, 0x00, 0x00, 0x01};
 ```
 # Commands
-    * /info : display name:port (openlight:42002)
-    * If a code is received from another source it will be displayed as 0x00, 0x00, 0x00 ,0x00, 0x00, 0x00, 0x01
+* /info : display name:port (openlight:42002)
+* If a code is received from another source it will be displayed as 0x00, 0x00, 0x00 ,0x00, 0x00, 0x00, 0x01
 
 # Components
 * 1 Arduino nano (ch340g): 2.50€	   

@@ -14,7 +14,7 @@ Notre arduino va contrôler directement les ampoules milight grâce au module ra
 # Utilisation
 * Copier **libraries/openlight** dans le carnet de croquis Arduino
 * Téléverser **openlight/openlight.ino**
-* Aller sur [TODO]
+* Aller sur http://madnerd.org/interface/homeautomation
 * Utiliser la passerlle milight pour allumer et éteindre une lampe afin de récupérer vos codes.
 
 Les boutons tactiles ne sont pas obligatoires, but cela permet d'allumer et éteindre une lampe.         

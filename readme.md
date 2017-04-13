@@ -14,7 +14,7 @@ Our arduino will directly control the milight bulbs using **nrf24l01+** radio mo
 # Usage
 * Copy **libraries/openlight** into your arduino sketchbooks
 * Upload **openlight/openlight.ino**
-* Go to [TODO]
+* Go to http://madnerd.org/interface/homeautomation
 * Use your milight gateway to turn on/off lamp to retrieve the code into the interface.
 
 Tactile switchs are not mandatory, but it makes it enable to turn on/off a lamp.      

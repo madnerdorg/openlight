@@ -1,3 +1,8 @@
+//Openlight 
+//Based on https://hackaday.io/project/5888-reverse-engineering-the-milight-on-air-protocol
+// Remi Sarrailh madnerd.org : MIT https://github.com/madnerdorg/openlight
+// Henryk Plötz : GPLv3 : https://github.com/henryk/openmili
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
@@ -21,8 +26,8 @@ const int repeat = 10;
 
 // Put your own code here
 // You don't need to put the last number as it will be increment each times you send a code
-int on [7] = { 0xB8,0x43,0x4A,0xC8,0x01,0x03, 0x01 };
-int off [7] = { 0xB8,0x43,0x4A,0xC8,0x01,0x04,0x01 };
+int on [7] = { 0x00,0x00,0x00,0x00,0x00,0x00,0x01 };
+int off [7] = { 0x00,0x00,0x00,0x00,0x00,0x00,0x01 };
 
 const String usb_name = "openlight:42003";
 
@@ -75,9 +80,7 @@ void setup()
 
 void loop()
 {
-
   radioReceive();
-  
   serialManager();
 
   //If string received
@@ -97,7 +100,7 @@ void loop()
   if (digitalRead(OffPin)) {
     radioSend(off);
   }
-  
+
 }
 
 
@@ -108,14 +111,14 @@ void radioReceive() {
     mlr.read(packet, packet_length);
 
     for (int i = 0; i < packet_length; i++) {
-      if(packet[i] < 10){
+      if (packet[i] < 10) {
         Serial.print("0x0");
       } else {
         Serial.print("0x");
       }
-      Serial.print(packet[i],HEX);
-      
-      if(i != (packet_length - 1)){
+      Serial.print(packet[i], HEX);
+
+      if (i != (packet_length - 1)) {
         Serial.print(",");
       }
     }
@@ -129,9 +132,26 @@ void radioSend(int code [7] ) {
   for (int i = 0; i < 6; i++)
   {
     outgoingPacket_tmp[i] = (uint8_t)code[i];
+
+    if (code[i] < 10) {
+      Serial.print("0x0");
+    } else {
+      Serial.print("0x");
+    }
+    Serial.print(code[i], HEX);
+    Serial.print(",");
   }
 
-  outgoingPacket_tmp[6] = (uint8_t)sequence;
+  uint8_t sequence_tmp = (uint8_t)sequence;
+
+  if (sequence_tmp < 10) {
+    Serial.print("0x0");
+  } else {
+    Serial.print("0x");
+  }
+  Serial.print(sequence_tmp, HEX);
+  Serial.println();
+  outgoingPacket_tmp[6] = sequence_tmp;
 
   //Send message
   for (int i = 0; i < repeat; i++) {
@@ -147,7 +167,6 @@ void radioSend(int code [7] ) {
     sequence++;
     outgoingPacket_tmp[6] = (uint8_t)sequence;
   }
-  Serial.println("Sent");
 }
 
 

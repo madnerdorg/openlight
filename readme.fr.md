@@ -43,8 +43,6 @@ Entrer un code précédemment reçu pour l'envoyer
 ## Téléverser le code
 * Copier **arduino/libraries** dans le carnet de croquis Arduino
 * Téléverser **arduino/openlight_gateway/openlight_gateway.ino**
-* Aller sur http://madnerd.org/interface/homeautomation
-* Utiliser la passerelle milight pour allumer et éteindre une lampe afin de récupérer vos codes.
 
 ## Composants
 * 1 Arduino nano (ch340g): 2.50€    

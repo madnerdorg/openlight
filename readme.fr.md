@@ -26,9 +26,9 @@ int off [7] = { 0x00, 0x00, 0x00 ,0x00, 0x00, 0x00, 0x01};
 ```
 
 # Commandes
-/info : Affiche nom:port 
+/info : Affiche nom
 ```
-openlight:42003         
+/madnerdorg/openlight     
 ```
 Quand un code est reçu il s'affiche 
 ```
@@ -38,25 +38,13 @@ Entrer un code précédemment reçu pour l'envoyer
 ```
 0x00,0x00,0x00,0x00,0x01,0x03,0x00
 ``` 
-
-# Applications
-[![Video youtube radio433openlight](doc/video_radio433openlight.jpg)](https://www.youtube.com/watch?v=JnwSQTdr2jQ)
-
-## Domotique
-[Exemple Domotique](http://madnerd.org/interface/homeautomation)     
-![Home Automation Interface](doc/homeauto.jpg)
-* Contrôler des lampes milight
-* Faire des interrupteurs milight
-* Détecter si une lampe est allumée/éteint
-
 # Fabriquer openlight
-
+* Aller sur https://pdf.madnerd.org pour plus d'informations.
 ## Téléverser le code
 * Copier **arduino/libraries** dans le carnet de croquis Arduino
-* Téléverser **arduino/openlight/openlight.ino**
+* Téléverser **arduino/openlight_gateway/openlight_gateway.ino**
 * Aller sur http://madnerd.org/interface/homeautomation
 * Utiliser la passerelle milight pour allumer et éteindre une lampe afin de récupérer vos codes.
-
 
 ## Composants
 * 1 Arduino nano (ch340g): 2.50€    
@@ -88,7 +76,7 @@ D5 ON SIG
 
 # Licences
 
-## openlight.ino
+## openlight_gateway.ino
 * Auteur : Rémi Sarrailh (madnerd.org)
 * licence : MIT 
 

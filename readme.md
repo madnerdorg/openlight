@@ -41,9 +41,7 @@ Enter a previously received code to send it
 
 ## Upload
 * Copy **arduino/libraries** into your arduino sketchbooks
-* Upload **arduino/openlight/openlight.ino**
-* Go to http://madnerd.org/interface/homeautomation
-* Use your milight gateway to turn on/off lamps to retrieve the code into the interface.
+* Upload **arduino/openlight_gateway/openlight_gateway.ino**
 
 ## Components
 * 1 Arduino nano (ch340g): 2.50€    
@@ -52,7 +50,7 @@ Enter a previously received code to send it
 > Cost : 5.50€    
 
 ## Wiring
-**nrf modules use 3.3V not 5V**
+**nrf modules use 3.3V not 5V, pins are 5v tolerant**
 
 ![nrf_pinout](doc/nrf_pinout.png)
 

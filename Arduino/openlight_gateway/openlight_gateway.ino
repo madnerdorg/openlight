@@ -67,7 +67,6 @@ void serialManager() {
 void setup()
 {
   Serial.begin(115200);
-  Serial.println("Hello World");
   pinMode(OnPin, INPUT_PULLUP);
   pinMode(OffPin, INPUT_PULLUP);
   mlr.begin();

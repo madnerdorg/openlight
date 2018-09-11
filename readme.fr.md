@@ -39,7 +39,7 @@ Entrer un code précédemment reçu pour l'envoyer
 0x00,0x00,0x00,0x00,0x01,0x03,0x00
 ``` 
 # Fabriquer openlight
-* Aller sur http://pdf.madnerd.org pour plus d'informations.
+* Aller sur http://pdf.libre.ovh pour plus d'informations.
 ## Téléverser le code
 * Copier **arduino/libraries** dans le carnet de croquis Arduino
 * Téléverser **arduino/openlight_gateway/openlight_gateway.ino**

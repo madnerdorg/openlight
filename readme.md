@@ -37,7 +37,7 @@ Enter a previously received code to send it
 0x00,0x00,0x00,0x00,0x01,0x03,0x00
 ``` 
 # How to build openlight
-* Check http://pdf.madnerd.org for more information.
+* Check http://pdf.libre.ovh for more information.
 
 ## Upload
 * Copy **arduino/libraries** into your arduino sketchbooks

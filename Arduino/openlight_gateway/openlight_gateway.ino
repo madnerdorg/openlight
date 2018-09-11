@@ -25,7 +25,7 @@ const int OnPin = 2;
 const int OffPin = 3;
 const int repeat = 10;
 
-const String usb_name = "madnerd/openlight/salon";
+const String usb_name = "madnerdorg/openlight";
 
 //Serial string buffer
 String readString;

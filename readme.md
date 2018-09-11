@@ -36,18 +36,8 @@ Enter a previously received code to send it
 ```
 0x00,0x00,0x00,0x00,0x01,0x03,0x00
 ``` 
-
-# Applications
-[![Video youtube radio433openlight](doc/video_radio433openlight.jpg)](https://www.youtube.com/watch?v=JnwSQTdr2jQ)
-
-## Home Automation
-[Home Automation Example](http://madnerd.org/interface/homeautomation)     
-![Home Automation Interface](doc/homeauto.jpg)
-* Control milight lamps
-* Build milight switch
-* Detect if a lamp is turn on/off
-
 # How to build openlight
+* Check http://pdf.madnerd.org for more information.
 
 ## Upload
 * Copy **arduino/libraries** into your arduino sketchbooks
